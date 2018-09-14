@@ -1,6 +1,6 @@
 ## Welcome to Professor Hollerer's ERSP Group
 
-We are second year CS/CE undergraduates working in Professor Sherwood's [ArchLab](https://www.arch.cs.ucsb.edu/prof-sherwood/). Our project is about ....
+We are second year CS/CE undergraduates working in Professor Hollerer and Professor Turk's [Four Eyes Lab](http://ilab.cs.ucsb.edu/). Our project is about ....
 
 
 * April Sanchez: Insert picture and write a few words about yourself
