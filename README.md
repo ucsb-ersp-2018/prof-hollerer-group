@@ -1,8 +1,16 @@
 ## Welcome to Our ERSP Group Site!
 
-We are second year CS/CE undergraduates working in Professor Hollerer and Professor Turk's [Four Eyes Lab](http://ilab.cs.ucsb.edu/) as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home). Our project is about ....
+We are second year CS/CE undergraduates working in Professor Hollerer and Professor Turk's [Four Eyes Lab](http://ilab.cs.ucsb.edu/) as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home).  Our project is about ....
 
+### Research Mentors
+* Professor Hollerer
+* Graduate student:
 
+### Cental Mentoring Team
+* Dr. Mirza
+* Grauate student mentor: May El Sherief 
+
+### ERSP Students
 * April Sanchez
 * Bella Yue
 * Cynthia Zhang
