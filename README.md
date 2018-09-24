@@ -8,7 +8,7 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 
 ### Cental Mentoring Team
 * Dr. Mirza
-* Grauate student mentor: May El Sherief 
+* May El Sherief 
 
 ### ERSP Students
 * April Sanchez
@@ -20,8 +20,9 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 ## Weekly Meeting Times
 
 * Research Group Meeting Times: TBD
-* Meeting with Research Mentor: TBD
-* Meeting with ERSP Grad Mentor:
+* Meeting with Professor Hollerer: TBD
+* Meeting with Grad Research Mentor: TBD
+* Meeting with ERSP Grad Mentor (May):
 * Meeting with Dr. Mirza:
 
 
