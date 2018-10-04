@@ -33,6 +33,12 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 * [Cynthia Zhang](https://github.com/ucsb-ersp-2018/hci-cynthiaz-research-log)
 * [Nathan Wu](https://github.com/ucsb-ersp-2018/hci-nathanw-research-log)
 
+
+## Resources
+
+* [Introduction to CS Research](https://sites.google.com/site/erspucsb/home)
+
+
 ## Project Docs
 All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu  
 
