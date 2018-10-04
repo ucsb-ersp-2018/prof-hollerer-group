@@ -23,7 +23,7 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 * Meeting with Professor Hollerer/Ehsan: TBD
 * Meeting with Grad Research Mentor: TBD
 * Meeting with ERSP Grad Mentor (May):
-* Meeting with Dr. Mirza:
+* Meeting with Professor Mirza:
 
 
 ## Individual Logs
