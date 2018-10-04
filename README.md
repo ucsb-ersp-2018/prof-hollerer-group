@@ -7,7 +7,7 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 * Graduate student: Ehsan Sayyad
 
 ### Central Mentoring Team
-* Dr. Mirza
+* Professor Mirza
 * May El Sherief 
 
 ### ERSP Students
