@@ -28,4 +28,5 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 
 
 ## Project Docs
-All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu
+All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu  
+[Bella Yue](https://github.com/ucsb-ersp-2018/hci-bellay-research-log)
