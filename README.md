@@ -4,29 +4,35 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 
 ### Research Mentors
 * Professor Hollerer
-* Graduate student:
+* Graduate student: Ehsan Sayyad
 
-### Cental Mentoring Team
+### Central Mentoring Team
 * Dr. Mirza
 * May El Sherief 
 
 ### ERSP Students
-* April Sanchez
-* Bella Yue
-* Cynthia Zhang
-* Nathan Wu  
+* April Sanchez: aprilsanchez@ucsb.edu
+* Bella Yue: yixiaoyue@ucsb.edu
+* Cynthia Zhang: jzhang00@ucsb.edu
+* Nathan Wu: yangwu@ucsb.edu  
 
 
 ## Weekly Meeting Times
 
 * Research Group Meeting Times: TBD
-* Meeting with Professor Hollerer: TBD
+* Meeting with Professor Hollerer/Ehsan: TBD
 * Meeting with Grad Research Mentor: TBD
 * Meeting with ERSP Grad Mentor (May):
 * Meeting with Dr. Mirza:
 
 
+## Individual Logs
+
+* [April Sanchez](https://github.com/ucsb-ersp-2018/hci-aprils-research-log)
+* [Bella Yue](https://github.com/ucsb-ersp-2018/hci-bellay-research-log)
+* [Cynthia Zhang](https://github.com/ucsb-ersp-2018/hci-cynthiaz-research-log)
+* [Nathan Wu](https://github.com/ucsb-ersp-2018/hci-nathanw-research-log)
 
 ## Project Docs
 All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu  
-[Bella Yue](https://github.com/ucsb-ersp-2018/hci-bellay-research-log)
+
