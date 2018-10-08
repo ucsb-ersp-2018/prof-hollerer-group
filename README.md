@@ -19,7 +19,7 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 
 ## Weekly Meeting Times
 
-* Research Group Meeting Times: TBD
+* Research Group Meeting Times: Friday, 9-11 AM
 * Meeting with Professor Hollerer/Ehsan: TBD
 * Meeting with Grad Research Mentor: TBD
 * Meeting with ERSP Grad Mentor (May):
