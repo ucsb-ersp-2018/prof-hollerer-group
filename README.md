@@ -22,7 +22,7 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 * Research Group Meeting Times: Friday, 9-11 AM
 * Meeting with Professor Hollerer/Ehsan: Thursday, 3:30-4:30 PM
 * Meeting with Grad Research Mentor: TBD
-* Meeting with ERSP Grad Mentor (May):
+* Meeting with ERSP Grad Mentor (May): Friday, 8:30-9:00 AM HFH 1152 (starting Oct. 26)
 * Meeting with Professor Mirza:
 
 
