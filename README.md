@@ -2,6 +2,8 @@
 
 We are second year CS/CE undergraduates working in Professor Hollerer and Professor Turk's [Four Eyes Lab](http://ilab.cs.ucsb.edu/) as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home).  Our project is about ....
 
+## Current State of the Project
+
 ### Research Mentors
 * Professor Hollerer
 * Graduate student: Ehsan Sayyad
