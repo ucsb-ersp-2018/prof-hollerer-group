@@ -39,7 +39,7 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 ## Resources
 
 * [Introduction to CS Research](https://sites.google.com/site/erspucsb/home)
-
+* [A thorough guide on conducting HCI research(Stanford University)](https://hci.stanford.edu/courses/cs376/2013/) 
 
 ## Project Docs
 All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu  
