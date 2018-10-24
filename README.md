@@ -1,8 +1,9 @@
 ## Welcome to Our ERSP Group Site!
 
-We are second year CS/CE undergraduates working in Professor Hollerer and Professor Turk's [Four Eyes Lab](http://ilab.cs.ucsb.edu/) as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home).  Our project is about ....
+We are second year CS undergraduates working in Professor Hollerer and Professor Turk's [Four Eyes Lab](http://ilab.cs.ucsb.edu/) as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home). We will be working in collaboration with the Bren School of Environmental Sciences for a cross-disciplinary research project called CrossRoads. 
 
 ## Current State of the Project
+We are currently working to select a research problem that can contribute to the CrossRoads Project as a whole before determining our research proposal. 
 
 ### Research Mentors
 * Professor Hollerer
@@ -21,7 +22,7 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 
 ## Weekly Meeting Times
 
-* Research Group Meeting Times: Friday, 9-11 AM
+* Research Group Meeting Times: Wednesday, 2-3 PM
 * Meeting with Professor Hollerer/Ehsan: Thursday, 3:30-4:30 PM
 * Meeting with Grad Research Mentor: TBD
 * Meeting with ERSP Grad Mentor (May): Friday, 8:30-9:00 AM HFH 1152 (starting Oct. 26)
@@ -42,5 +43,6 @@ We are second year CS/CE undergraduates working in Professor Hollerer and Profes
 * [A thorough guide on conducting HCI research(Stanford University)](https://hci.stanford.edu/courses/cs376/2013/) 
 
 ## Project Docs
-All our project documents are available in the following private repositories. For access please contact: diba@ucsb.edu  
 
+* Our project group's [Google Drive](https://drive.google.com/drive/folders/1PBM4ZLN9wgPmemLYtUJdgQPpu_hBRtGY?usp=sharing)
+* All our project documents are available in the following private repositories. For access, please contact: diba@ucsb.edu  
