@@ -41,7 +41,7 @@ We are currently working to select a research problem that can contribute to the
 
 * [Introduction to CS Research](https://sites.google.com/site/erspucsb/home)
 * [A thorough guide on conducting HCI research(Stanford University)](https://hci.stanford.edu/courses/cs376/2013/)
-* [Group Feedback] (https://docs.google.com/document/d/1fLYZLQQGxwF7fKZEtsIWE08p11fFlF39GIZPQ_HfUO8/edit?usp=sharing)
+* [Group Feedback](https://docs.google.com/document/d/1fLYZLQQGxwF7fKZEtsIWE08p11fFlF39GIZPQ_HfUO8/edit?usp=sharing)
 
 ## Project Docs
 
