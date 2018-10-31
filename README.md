@@ -3,7 +3,7 @@
 We are second year CS undergraduates working in Professor Hollerer and Professor Turk's [Four Eyes Lab](http://ilab.cs.ucsb.edu/) as part of the [UCSB ERSP program](https://sites.google.com/site/erspucsb/home). We will be working in collaboration with the Bren School of Environmental Sciences for a cross-disciplinary research project called CrossRoads. 
 
 ## Current State of the Project
-We are currently working to select a research problem that can contribute to the CrossRoads Project as a whole before determining our research proposal. 
+We are currently working to narrow down a research problem that can contribute to the CrossRoads Project as a whole. We are also in the beginning stages of writing a research proposal.
 
 ## Research Proposal
 View our current research proposal [here](https://drive.google.com/open?id=1S2Nb3hQYokOuQW--C1dAmsrAPAHW3wMm).
