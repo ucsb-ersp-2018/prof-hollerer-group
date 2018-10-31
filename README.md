@@ -26,8 +26,7 @@ View our current research proposal [here](https://drive.google.com/open?id=1S2Nb
 ## Weekly Meeting Times
 
 * Research Group Meeting Times: Wednesday, 2-3 PM
-* Meeting with Professor Hollerer/Ehsan: Thursday, 3:30-4:30 PM
-* Meeting with Grad Research Mentor: TBD
+* Meeting with Professor Hollerer/Ehsan: Thursday, 3:30-4:00 PM
 * Meeting with ERSP Grad Mentor (May): Friday, 8:30-9:00 AM HFH 1152 (starting Oct. 26)
 * Meeting with Professor Mirza:
 
