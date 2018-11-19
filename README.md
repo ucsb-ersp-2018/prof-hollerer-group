@@ -48,4 +48,7 @@ View our current research proposal [here](https://drive.google.com/file/d/1umTMg
 ## Project Docs
 
 * Our project group's [Google Drive](https://drive.google.com/drive/folders/1PBM4ZLN9wgPmemLYtUJdgQPpu_hBRtGY?usp=sharing)
-* All our project documents are available in the following private repositories. For access, please contact: diba@ucsb.edu  
+* All our project documents are available in the following private repositories. For access, please contact: diba@ucsb.edu 
+
+## Research Proposal Feedback
+* [Tony's Feedback](https://docs.google.com/document/d/1PFD3rHPoXuTQfqXaQLrFSqlwVQ3WXEnfMnfspWoyIZA/edit?usp=sharing)
