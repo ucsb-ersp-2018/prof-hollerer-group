@@ -6,7 +6,8 @@ We are second year CS undergraduates working in Professor Hollerer and Professor
 We are currently working to narrow down a research problem that can contribute to the CrossRoads Project as a whole. We are also in the beginning stages of writing a research proposal.
 
 ## Research Proposal
-View our current research proposal [here](https://drive.google.com/file/d/1umTMg874Y08Nut6mAeoGjr1wSl1XrlfA/view?usp=sharing).
+View our first draft research proposal [here](https://drive.google.com/file/d/1umTMg874Y08Nut6mAeoGjr1wSl1XrlfA/view?usp=sharing).
+View our revised research proposal [here](https://docs.google.com/document/d/1fsSrF0GchAMazf4dqbzDN0mFXxeetZodujOpb9NSQBs/edit?usp=sharing).
 
 ### Research Mentors
 * Professor Hollerer
