@@ -8,6 +8,7 @@ We are currently working to narrow down a research problem that can contribute t
 ## Research Proposal
 View our first draft research proposal [here](https://drive.google.com/file/d/1umTMg874Y08Nut6mAeoGjr1wSl1XrlfA/view?usp=sharing).
 View our revised research proposal [here](https://docs.google.com/document/d/1fsSrF0GchAMazf4dqbzDN0mFXxeetZodujOpb9NSQBs/edit?usp=sharing).
+View our proposal presentation slides [here](https://docs.google.com/presentation/d/1D167DV54MuqfJJDTHAimAv7OmryKfNsVRYvdkvOeEac/edit?usp=sharing)
 
 ### Research Mentors
 * Professor Hollerer
