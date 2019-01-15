@@ -32,7 +32,7 @@ View our proposal presentation slides [here](https://docs.google.com/presentatio
 * Research Group Meeting Times: Wednesday, 2-3 PM
 * Meeting with Professor Hollerer/Ehsan: Thursday, 3:30-4:00 PM
 * Meeting with ERSP Grad Mentor (May): Friday, 8:30-9:00 AM HFH 1152 (starting Oct. 26)
-* Meeting with Professor Mirza:
+* Meeting with Professor Mirza: Monday, 5:00-6:00 PM in Prof Mirza's office
 
 
 ## Individual Logs
