@@ -38,6 +38,8 @@ View our first draft research proposal [here](https://drive.google.com/file/d/1u
 * Meeting with ERSP Grad Mentor (May): Tuesday, 11:00-12:30 PM in HFH 2158
 * Meeting with Professor Mirza: Monday, 5:00-6:00 PM in Prof Mirza's office
 
+* CrossRoads Seminar: Wednesday, 9:00 AM -11:00 AM (only April can attend)
+* Four Eyes Lab Meeting: Thursday, 9:30 AM -11:00 AM (April, Bella, Cynthia)
 
 ## Individual Logs
 
